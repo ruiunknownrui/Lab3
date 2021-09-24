@@ -25,5 +25,6 @@ public class BuddyInfo {
         BuddyInfo testHomer = new BuddyInfo("Homer", "Unknown Address", "111-111-1111");
         System.out.println("Hello " + testHomer.getName());
         System.out.println("test");
+        System.out.println("Add a new method");
     }
 }
